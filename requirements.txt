@@ -5,3 +5,4 @@ faiss-cpu
 langchain-google-genai
 pymupdf
 python-dotenv
+google-generativeai
