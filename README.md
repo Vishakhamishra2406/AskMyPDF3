@@ -1,14 +1,17 @@
-AskMyPDF
-📄 AskMyPDF - GenAI Powered PDF Chatbot
+# AskMyPDF
+
+# 📄 AskMyPDF - GenAI Powered PDF Chatbot
+
 AskMyPDF is an intelligent chatbot that allows users to upload any PDF document and interact with its content through natural language queries. Whether it’s a research paper, textbook, or instruction manual — just upload and ask!
 
 ##DEMO LINK- https://vishakhamishra2406-askmypdf3-chatbot-ftkine.streamlit.app/
 
-💡 Features
+## 💡 Features
 Upload any PDF file and ask questions about it.
 Utilizes Google's Generative AI (Gemini) for intelligent responses.
 User-friendly Streamlit interface.
-🚀 Tech Stack
+
+## 🚀 Tech Stack
 Frontend: Streamlit
 Backend: Python
 Libraries Used:
@@ -17,7 +20,8 @@ Langchain – for text splitting and RetrievalQA chain
 FAISS – for efficient vector search
 GoogleGenerativeAI – for generating responses
 dotenv – for API key management
-📦 Setup Instructions
+
+## 📦 Setup Instructions
 Install dependencies:
 
 bash Copy Edit pip install -r requirements.txt Create a .env file in the root directory and add your Gemini API key:
